@@ -1,7 +1,7 @@
 services:
   # See https://render.com/docs/blueprint-spec for more info on render blueprints
   - type: web
-    name: my_dashboard_python_ma_112024
+    name: my_dashboard_ma_python
     env: python
     plan: free
     # A requirements.txt file must exist
